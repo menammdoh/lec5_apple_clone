@@ -1,0 +1,184 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+nav ul li {
+    display: inline;
+    font-size: 10px;
+    text-align: center;
+    margin: 0.5%;
+    position: relative;
+    left:20%;
+    bottom: 3px; 
+}
+
+nav ul li a {
+    color: rgb(107, 96, 96);
+    margin: 3px;
+    display: inline;
+}
+
+nav ul li a:hover {
+    color: black;
+    transition: 0.3s ease;
+}
+
+nav ul {
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.apple {
+    font-size: 15px;
+    position: relative;
+    top: 4px;
+    color: rgb(87, 81, 81);
+}
+
+.apple:hover {
+    color: black;
+    transition: 0.3s ease;
+}
+
+.sec1 {
+    width: 100%;
+    height: 70vh;
+
+}
+
+.sec1 img {
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 70vh;
+    background-position: center;
+}
+
+.iphone15 {
+    position:absolute;
+    color: aliceblue;
+    left: 10%;
+    top: 20%;
+}
+
+.piphone15 {
+    position: absolute;
+    color: aliceblue;
+    font-size: 20px;
+    top:30% ;
+    left: 10%;
+}
+
+
+
+button {
+    position: relative;
+    bottom: 55%;
+    left: 15%;
+    margin-right: 40px;
+    font-size: 20px;
+    background-color: rgba(187, 60, 60, 0);
+    border: none;
+
+}
+
+button a {
+    color: rgb(52, 109, 244);
+}
+
+button:hover {
+    text-decoration:underline rgb(52, 109, 244);
+    text
+    
+}
+
+.sec2 img {
+    width:100%;
+    height:70vh;
+
+}
+
+.sec2 h1 {
+    position: absolute;
+    left: 45%;
+    bottom: 2%;
+}
+
+.sec2 p {
+    position: absolute;
+    bottom: -25px;
+    left: 37%;
+font-size: 20px;
+}
+
+.sec2 button {
+    position: relative;
+    top: -215px;
+    left: 42%;
+}
+
+.sec3 {
+    height: 70vh;
+}
+
+.sec3 img {
+    width: 100%;
+    height: 70vh;
+    position: absolute;
+    top:828px;
+    z-index: -1;
+}
+
+.sec3h h1 {
+    display: inline;
+    color: aliceblue;
+    z-index: 1;
+    position: relative;
+    bottom: 365px;
+    left: 10%;
+}
+
+.apple2 {
+    color:aliceblue;
+    z-index: 1;
+    font-size: 40px;
+    position: relative;
+    bottom: 360px;
+    left: 10%;
+}
+
+.ser {
+    display: inline;
+    color: rgb(162, 18, 18);
+    font-size: 12px;
+    position: relative;
+    bottom: 340px;
+    left: 25px;
+}
+
+.ser2 {
+    display: inline;
+    color: aliceblue;
+    position: relative;
+    bottom: 310px;
+    right: 100px;
+}
+
+.button3 {
+    position: relative;
+    bottom: 260px;
+    left:-260px;
+}
+
+.sec3h {
+    background-color: rgb(103, 113, 113);
+    height: 70px;
+    margin-bottom: -100px;
+    position: relative;
+    bottom: 29px;
+}
